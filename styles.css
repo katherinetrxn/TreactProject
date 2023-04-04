@@ -719,7 +719,7 @@ PRICING
     bottom: 0;
     height: 256px;
     width: 256px;
-    transform: translateX(40px);
+    transform: translateX(100px);
     opacity: 0.25;
     overflow: hidden;
     z-index: -2

@@ -93,6 +93,10 @@ align-items: center;
 text-align: center;
 }
 
+.features__subtext {
+    padding: 0px 32px;
+}
+
 .btn__purple {
     background-color: #6415ff;
     border-radius: 25px;
@@ -1372,4 +1376,3 @@ footer {
         margin: 0px 0px 16px 0px;
     }
  }
-

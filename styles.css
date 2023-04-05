@@ -461,7 +461,7 @@ padding: 0px 32px;
     height: 80px;
     color: #6415ff;
     fill: currentcolor;
-    transform: matrix(1, 0, 0, 1, 40, 40);
+    transform: matrix(1, 0, 0, 1, 40, 35);
 }
 
 /* 
@@ -1374,5 +1374,9 @@ footer {
 
     .start {
         margin: 0px 0px 16px 0px;
+    }
+
+    .cta {
+        padding: 100px 25px;
     }
  }
